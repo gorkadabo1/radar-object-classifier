@@ -1,6 +1,6 @@
 # Radar-Based Multiclass Object Classifier
 
-A machine learning project for classifying objects detected by 2D radar systems in railway environments (CAF I+D). The analysis compares regularized logistic regression (GLMNet) with gradient boosting (XGBoost) for multiclass classification using radar detection features.
+A machine learning project for classifying objects detected by 2D radar systems in railway environments. The analysis compares regularized logistic regression (GLMNet) with gradient boosting (XGBoost) for multiclass classification using radar detection features.
 
 ![R](https://img.shields.io/badge/R-4.0+-blue.svg)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Classification-orange.svg)
